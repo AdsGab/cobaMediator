@@ -1,0 +1,14 @@
+D:\C#\MediatorTubesTes\MediatorTubesTes\bin\Debug\net8.0\MediatorTubesTes.exe
+D:\C#\MediatorTubesTes\MediatorTubesTes\bin\Debug\net8.0\MediatorTubesTes.deps.json
+D:\C#\MediatorTubesTes\MediatorTubesTes\bin\Debug\net8.0\MediatorTubesTes.runtimeconfig.json
+D:\C#\MediatorTubesTes\MediatorTubesTes\bin\Debug\net8.0\MediatorTubesTes.dll
+D:\C#\MediatorTubesTes\MediatorTubesTes\bin\Debug\net8.0\MediatorTubesTes.pdb
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\MediatorTubesTes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\MediatorTubesTes.AssemblyInfoInputs.cache
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\MediatorTubesTes.AssemblyInfo.cs
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\MediatorTubesTes.csproj.CoreCompileInputs.cache
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\MediatorTubesTes.dll
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\refint\MediatorTubesTes.dll
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\MediatorTubesTes.pdb
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\MediatorTubesTes.genruntimeconfig.cache
+D:\C#\MediatorTubesTes\MediatorTubesTes\obj\Debug\net8.0\ref\MediatorTubesTes.dll
